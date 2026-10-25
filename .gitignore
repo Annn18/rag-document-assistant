@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment Variables
+.env
+
+# Vector Store and local data
+data/vectorstore/*
+data/uploads/*
+!data/vectorstore/.gitkeep
+!data/uploads/.gitkeep
+
+# Streamlit
+.streamlit/

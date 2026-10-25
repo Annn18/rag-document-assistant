@@ -1,0 +1,22 @@
+# Core Frameworks
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-huggingface>=0.0.3
+
+# Embeddings & Vector Store
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+
+# Document Extractors
+pypdf>=4.0.0
+python-docx>=1.1.0
+python-pptx>=0.6.23
+
+# Web Application
+streamlit>=1.35.0
+
+# HuggingFace & Utilities
+huggingface-hub>=0.23.0
+python-dotenv>=1.0.0
+transformers>=4.40.0
+torch>=2.2.0
